@@ -1,0 +1,176 @@
+h1 { 
+
+color: white  }
+
+body { 
+
+
+   margin: 75px 0;
+
+ }
+
+
+ .box-item { 
+
+width: 500px;
+height: 500px; 
+border-radius: 500px; 
+background-color: lightgrey; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+
+  }
+
+
+ .box-item2 { 
+
+width: 500px;
+height: 500px; 
+border-radius: 500px; 
+background-color: lightgrey; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+  }
+ 
+
+.boxitem3 { 
+
+margin:center;
+
+ }
+
+.boxitem4 {
+
+width: 500px;
+height: 500px; 
+border-radius: 500px; 
+background-color: lightgrey; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+}
+
+
+.circle-item1{ 
+
+width: 600px;
+height: 600px; 
+border-radius: 700px; 
+background-color: lavender; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+ }
+
+
+.circle-item2 { 
+width: 600px;
+height: 600px; 
+border-radius: 700px; 
+background-color: lavender; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+
+ }
+
+.circle-item3 { 
+width: 600px;
+height: 600px; 
+border-radius: 700px; 
+background-color: lavender; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+ }
+
+ .circle-item4 { 
+width: 600px;
+height: 600px; 
+border-radius: 700px; 
+background-color: lavender; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+ }
+
+.shape-item1 { 
+width: 800px;
+height: 800px; 
+border-radius: 800px; 
+background-color: olive; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+ }
+
+
+ .shape-item2 { 
+width: 800px;
+height: 800px; 
+border-radius: 800px; 
+background-color: olive; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+ }
+
+ .shape-item3 { 
+width: 800px;
+height: 800px; 
+border-radius: 800px; 
+background-color: olive; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+ }
+
+ .shape-item4 { 
+width: 800px;
+height: 800px; 
+border-radius: 800px; 
+background-color: olive; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+ }
+
+
+.final-item1 {
+width: 300px;
+height: 200px; 
+border-radius: 800px; 
+background-color: teal; 
+display: flex;
+align-items: center; 
+justify-content: center;
+margin:auto;
+
+
+
+}
+
+ 
